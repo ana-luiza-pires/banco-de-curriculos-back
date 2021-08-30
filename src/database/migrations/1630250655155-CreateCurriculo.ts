@@ -27,7 +27,7 @@ export class CreateCurriculo1630250655155 implements MigrationInterface {
                         type: 'varchar'
                     },
                     {
-                        name: 'maritalstatus',
+                        name: 'maritalStatus',
                         type: 'varchar'
                     },
                     {
@@ -35,7 +35,7 @@ export class CreateCurriculo1630250655155 implements MigrationInterface {
                         type: 'varchar'
                     },
                     {
-                        name: 'adress',
+                        name: 'address',
                         type: 'varchar'
                     },
                     {
